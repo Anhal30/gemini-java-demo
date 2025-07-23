@@ -1,0 +1,3 @@
+echo "out/" >> .gitignore
+echo "*.class" >> .gitignore
+echo "*.iml" >> .gitignore
