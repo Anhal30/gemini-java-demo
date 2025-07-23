@@ -5,7 +5,7 @@ import java.net.*;
 
 public class Gemini {
     public static void main(String[] args) throws Exception {
-        String apiKey = "AIzaSyC-QcAuo36Iq8xcLbEFSm0ekJZAPR3d5qs";
+        String apiKey = "";
         String urlStr = "https://generativelanguage.googleapis.com/v1beta/models/gemini-2.0-flash:generateContent?key=" + apiKey;
 
         // Predefined question (can be changed anytime)
